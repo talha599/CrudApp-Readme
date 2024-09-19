@@ -65,7 +65,7 @@ Step 2: Configure the Application
 
 ```bash
   <connectionStrings>
-    <add name="ContactDB" connectionString="Server=YOUR_SERVER_NAME;Database=ContactDB;Trusted_Connection=True;" providerName="System.Data.SqlClient" />
+    <add name="ContactDB" connectionString="Data Source=TALHA;Initial Catalog=MyCURD;Integrated Security=True;TrustServerCertificate=True" />
 </connectionStrings>
 
 ```
