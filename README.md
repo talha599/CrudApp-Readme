@@ -98,5 +98,6 @@ For support, Email: talhasedubd@gmail.com or Watch: https://youtu.be/mzeUKQjJK5c
 
 ## License
 
-[MIT](https://choosealicense.com/licenses/mit/)
+This project is licensed under the [MIT](https://choosealicense.com/licenses/mit/) License - see the LICENSE.md file for details.
+
 
