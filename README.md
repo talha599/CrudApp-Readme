@@ -95,7 +95,7 @@ To backup the `ContactDB` database:
 3. Select the destination and click `OK` to create a backup file.
 ## Support
 
-For support, talhasedubd@gmail.com or join our Slack channel.
+For support, Email: talhasedubd@gmail.com or Watch: https://youtu.be/mzeUKQjJK5c?si=n-TIVOsHtAzTHyHH.
 
 
 ## License
