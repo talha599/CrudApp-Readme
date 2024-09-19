@@ -8,7 +8,7 @@ This repository contains a simple CRUD (Create, Read, Update, Delete) applicatio
 ## Table Structure
 The application operates on a table named `Contacts` with the following structure:
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![Screenshot 2024-09-19 123224](https://github.com/user-attachments/assets/6a879ff9-b32e-4bcb-b836-6a63b9490cfd)
 
 
 ## Prerequisites
