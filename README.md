@@ -1,4 +1,3 @@
-
 # CRUD Application for Contact Management
 
 This repository contains a simple CRUD (Create, Read, Update, Delete) application in C# for managing contacts. The application allows you to perform basic operations on a contact list stored in a SQL Server database.
@@ -9,7 +8,6 @@ This repository contains a simple CRUD (Create, Read, Update, Delete) applicatio
 The application operates on a table named `Contacts` with the following structure:
 
 ![Screenshot 2024-09-19 123224](https://github.com/user-attachments/assets/6a879ff9-b32e-4bcb-b836-6a63b9490cfd)
-
 
 ## Prerequisites
 
