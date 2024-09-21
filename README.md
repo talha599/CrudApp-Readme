@@ -53,7 +53,7 @@ Step 2: Configure the Application
 - Clone this repository to your local machine using:
 
 ```bash
-  git clone < github.com/talha599/CrudApp-Readme >
+  git clone < [github.com/talha599/CrudApp-Readme](https://github.com/talha599/CrudApp-Readme/blob/main/README.md) >
 ```
 2. Open the Solution:
 
@@ -93,7 +93,7 @@ To backup the `ContactDB` database:
 3. Select the destination and click `OK` to create a backup file.
 ## Support
 
-For support, Email: talhasedubd@gmail.com or Watch: youtu.be/mzeUKQjJK5c?si=2mu8S3H51tRIQSZ7
+For support, Email: talhasedubd@gmail.com or Watch: https://youtu.be/mzeUKQjJK5c?si=DE7m4-4V1Ae4Wrq1
 
 
 ## License
