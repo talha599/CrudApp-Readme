@@ -53,7 +53,7 @@ Step 2: Configure the Application
 - Clone this repository to your local machine using:
 
 ```bash
-  git clone < [github.com/talha599/CrudApp-Readme](https://github.com/talha599/CrudApp-Readme/blob/main/README.md) >
+  git clone < https://github.com/talha599/CrudApp-Readme >
 ```
 2. Open the Solution:
 
